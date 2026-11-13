@@ -20,3 +20,5 @@ The system aims to enhance user convenience, streamline railway operations, and 
 ## Project Objective
 
 To develop a reliable and efficient railway management platform that simplifies reservation processes, improves accessibility, and enhances the overall passenger experience.
+<img width="1907" height="1015" alt="image" src="https://github.com/user-attachments/assets/7fcd9bb8-bb2b-43cc-a2b7-d04b7d374dd3" />
+<img width="1907" height="970" alt="image" src="https://github.com/user-attachments/assets/7b7d9859-c6e2-4d1b-a08a-18a1a5fd7184" />
