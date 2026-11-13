@@ -1,20 +1,22 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🚆 Railway Management System
 
-# Run and deploy your AI Studio app
+## Project Description
 
-This contains everything you need to run your app locally.
+The **Railway Management System** is a full-stack web application designed to simplify and modernize railway reservation and management operations. It provides an integrated platform for managing train schedules, passenger bookings, ticket reservations, route information, and travel details.
 
-View your app in AI Studio: https://ai.studio/apps/c739991e-a208-4c05-abc5-fda7e33daf23
+The system aims to enhance user convenience, streamline railway operations, and provide an efficient and user-friendly railway reservation experience.
 
-## Run Locally
+## Key Features
 
-**Prerequisites:**  Node.js
+- Train Schedule Management
+- Online Ticket Booking
+- Passenger Management
+- Railway Reservation System
+- Ticket Generation and Download
+- Fare Calculation
+- Route and Schedule Tracking
+- Booking Management
 
+## Project Objective
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+To develop a reliable and efficient railway management platform that simplifies reservation processes, improves accessibility, and enhances the overall passenger experience.
