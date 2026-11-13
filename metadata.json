@@ -1,0 +1,6 @@
+{
+  "name": "VeloRail Express — Railway Reservation & Live Schedule System",
+  "description": "Real-time railway reservation management and schedule tracking system for passengers to search trains, reserve seats, view itemized bills, download e-tickets, and receive live platform or delay alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
